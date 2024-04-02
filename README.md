@@ -28,4 +28,4 @@ Libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly for data manipu
 ## Benefits:
 This project provides investors, analysts, and stakeholders with valuable insights into the historical performance and trends of leading technology stocks, enabling informed decision-making in the stock market.
 
-# Overall, this project serves as a comprehensive analysis of the tech stock market, offering actionable insights and aiding in strategic investment decisions.
+## Overall, this project serves as a comprehensive analysis of the tech stock market, offering actionable insights and aiding in strategic investment decisions.
